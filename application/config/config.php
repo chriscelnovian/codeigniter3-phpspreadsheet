@@ -26,7 +26,7 @@ $config['enable_hooks'] = FALSE;
 $config['subclass_prefix'] = 'MY_';
 
 /* Composer Auto Loading */
-$config['composer_autoload'] = FALSE;
+$config['composer_autoload'] = 'vendor/autoload.php';
 
 /* Allowed URL Characters */
 $config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-';
