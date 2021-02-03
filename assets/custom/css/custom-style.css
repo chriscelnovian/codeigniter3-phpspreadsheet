@@ -2,30 +2,16 @@ button.close {
     outline: none;
 }
 
+.border {
+    border: 2px solid #AAA!important;
+    border-radius: 5px;
+}
+
 .content-page {
     width: 85%;
     margin: 50px auto;
 }
 
 .content-header {
-    display: flex;
-    flex-wrap: wrap;
     margin-bottom: 20px;
-}
-
-.content-btn-add {  
-    margin: auto 0 auto auto;
-    padding: 3px 30px;
-}
-
-.content-table-no {
-    width: 15%;
-}
-
-.content-table-name {
-    width: 55%;
-}
-
-.content-table-action {
-    width: 30%;
 }
