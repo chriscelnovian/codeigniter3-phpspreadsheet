@@ -2,21 +2,21 @@
 
 Codeigniter 3 Import & Export Excel using PHPSpreadsheet
 
-![Screenshot](/screenshot/1-home.png)
+![Screenshot](/screenshot/1-home.PNG)
 
 ### Description
 Kind of sample features :
 - Import Data from Excel
 
-![Screenshot](/screenshot/2-import-excel.png)
+![Screenshot](/screenshot/2-import-excel.PNG)
 
 - Export All Data to Excel
 
-![Screenshot](/screenshot/3-export-excel-all.png)
+![Screenshot](/screenshot/3-export-excel-all.PNG)
 
 - Export Data with Date Filter to Excel
 
-![Screenshot](/screenshot/4-export-excel-filter.png)
+![Screenshot](/screenshot/4-export-excel-filter.PNG)
 
 ### How to use
 - Clone this Repository
