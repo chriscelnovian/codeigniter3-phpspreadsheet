@@ -54,7 +54,7 @@
 
                 <!-- Empty State -->
                 <?php if(empty($transaction_list)) { ?>
-                    <tr class="text-center"><td colspan="4">Data not found</td></tr>
+                    <tr class="text-center"><td colspan="6">Data not found</td></tr>
                 <?php } ?>
 
             </tbody>
